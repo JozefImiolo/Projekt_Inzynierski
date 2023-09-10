@@ -1,4 +1,4 @@
-date,CAPE,div_growth,div_yield,earn_yield,PBV,PE,price_sales_ratio,10usy_bond_yield,cons_sent,cons_sent_percent_change,CPIAUCSL_PCH,fed_effective_rate,fed_effect_rate_pch, gdp,gdp_percent_change,pmi_index,unemploy_rate
+date,CAPE,div_growth,div_yield,earn_yield,PBV,PE,price_sales_ratio,10usy_bond_yield,cons_sent,cons_sent_percent_change,CPIAUCSL_PCH,fed_effective_rate,fed_effect_rate_pch,gdp,gdp_percent_change,pmi_index,unemploy_rate
 2004-01-01,27.66,8.16,1.61,4.4,3.03,22.73,1.56,4.26,103.8,12.1,0.43,1.0,0.02,11923.45,1.28,60.8,5.7
 2004-01-02,27.66,8.16,1.61,4.4,3.03,22.72,1.56,4.37,103.8,12.1,0.43,1.0,0.02,11923.45,1.28,60.8,5.7
 2004-01-03,27.66,8.16,1.61,4.4,3.03,22.71,1.56,4.37,103.8,12.1,0.43,1.0,0.02,11923.45,1.28,60.8,5.7
